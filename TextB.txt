@@ -6,3 +6,5 @@ New Changes
 Add another Line
 Add Line
 Add Commit1
+Add Commit2
+Add Commit3
